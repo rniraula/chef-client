@@ -1,4 +1,4 @@
-# Chef Client Cookbook
+# Chef Client Cookbook by Rojil
 
 [![Build Status](https://travis-ci.org/chef-cookbooks/chef-client.svg?branch=master)](https://travis-ci.org/chef-cookbooks/chef-client) [![Cookbook Version](https://img.shields.io/cookbook/v/chef-client.svg)](https://supermarket.chef.io/cookbooks/chef-client)
 
